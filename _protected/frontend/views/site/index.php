@@ -9,6 +9,7 @@ use common\models\Slider;
 $this->title = Yii::t('app', Yii::$app->name);
 
 $modelgallery = new Slider();
+//image gallery
 $imggallery = $modelgallery->getSlider(67);
 ?>
 
