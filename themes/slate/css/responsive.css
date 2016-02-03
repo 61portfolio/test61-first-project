@@ -1,0 +1,93 @@
+/* CSS Document */
+@media only screen and (min-width : 1366px) and (max-width : 1700px){
+.horchata-content, .banana-content, .milk-shake-content{ padding:30px;}
+.horchata-content p, .banana-content p, .milk-shake-content p, .cold-stone-content p{ font-size:15px; letter-spacing:0;}
+.banana-content .heading, .horchata-content h4, .milk-shake-content .heading, .cold-stone-content .heading{ font-size:35px;}
+.cold-stone-content{ padding:48px 30px 49px;}
+.food-inner-left { margin: 40px auto 0; display: table;}
+}
+@media only screen and (min-width : 1025px) and (max-width : 1366px){
+.wrapper {width: 100%;}
+.navigation-area .navbar-default .navbar-nav > li > a {font-size: 16px; padding: 0px 9px 25px 9px;}
+.navigation-area .navbar-default .navbar-nav > li {margin: 16px 2px 0px;}
+footer p { font-size: 12px;}
+footer ul li a { font-size: 11px;}
+.footer-social-media-set ul li {width: 25px;}
+.footer-social-media-set ul li svg { width: 16px; height: 16px;}
+.social-media-set ul li svg {width: 20px;height: 20px;}
+.social-media-set ul li { width: 33px;}
+.our-story-content {padding: 0px 22px;}
+.our-story-content h1 {font-size: 30px; margin-bottom: 14px;}
+.our-story-content p {margin: 0px 0px 7px; font-size: 14px;}
+.our-story-content h2 {font-size: 20px; margin-bottom: 13px; margin-top: 0px;}
+
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape){.wrapper {width: 100%;}
+.navigation-area .navbar-default .navbar-nav > li > a {font-size: 16px;padding: 20px 11px;}
+.navigation-area .navbar-default .navbar-nav > li { margin: 0px 0px 0px 0px;}
+.social-media-set ul li svg { width: 20px;height: 20px;}
+.social-media-set ul li { width: 30px;}
+footer p { font-size: 11px;}
+.footer-social-media-set ul li svg { width: 17px; height: 17px;}
+.footer-social-media-set ul li { width: 30px;}
+.our-story-content { padding: 0px 20px;}
+.our-story-content h1 { font-size: 30px; margin-bottom: 18px;}
+.our-story-content p { font-size: 14px;margin: 0px 0px 10px;}
+.our-story-content h2 { font-size: 21px;margin-bottom:20px;}
+.stueben-logo {float: right;}
+
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait){
+.wrapper {width: 100%;}
+.contact-area h1 {font-size: 40px; margin: 0px auto 25px;}
+.contact-info h3 { font-size: 21px; margin-bottom: 0px;}
+.contact-info p {  font-size: 14px;}
+.social-media-set ul li svg { width: 18px; height: 18px;}
+.social-media-set ul li { width: 34px;}
+.contact-info button {padding: 5px 20px;margin: 20px auto;font-size: 15px;}
+.contact-area h2 { font-size: 16px;line-height: 18px;}
+.contact-area h2 span.heading-second {font-size: 22px;}
+.contact-area button { padding: 6px 36px;font-size: 17px;}
+footer p { font-size: 11px;}
+.footer-social-media-set ul li svg { width: 15px; height: 15px;}
+.footer-social-media-set ul li { width: 30px;}
+footer ul li a { font-size: 11px;}
+footer p {font-size: 12px;}
+.navigation-area .navbar-default .navbar-nav > li > a {font-size: 14px; padding: 12px 7px 25px 8px;}
+.navigation-area .navbar-default .navbar-nav > li {  margin: 0px;}
+.logo-section img { width: 88%;}
+.our-story-content {padding: 0px 50px;}
+.our-story-content h1 {font-size: 32px;}
+.our-story-content p { margin: 0px 0px 10px; font-size: 14px;}
+.our-story-content h2 {font-size: 21px;}
+
+}
+@media only screen and (min-width : 220px) and (max-width : 767px){
+.contact-area h1 {font-size: 30px;padding: 20px 0px 3px;}
+.wrapper {width: 100%;}
+.contact-info h3 {font-size: 19px;margin-bottom: 0px;}
+.contact-info p {font-size: 12px;}
+.contact-info label {font-size: 14px;line-height: 20px;}
+.social-media-set ul li { width: 30px;}
+.social-media-set ul li svg {width: 16px;height: 16px;}
+.contact-info button {padding: 6px 20px; margin: 18px auto 0px; font-size: 16px;}
+.contact-form {padding: 0px 25px 0px 25px;}
+.contact-area h2 {font-size: 16px;line-height: 17px; margin-top: 0px}
+.contact-area h2 span.heading-second {  font-size: 20px;}
+.contact-area button {padding: 7px 30px;font-size: 16px;}
+footer p {font-size: 12px;}
+.footer-social-media-set ul li { width: 26px;}
+.footer-social-media-set ul li svg { width: 15px;height: 15px;}
+footer ul li a {font-size: 10px;}
+.logo-section img { width: 100px;}
+.navbar-toggle { margin-top: 2px;background-color: #ACAA9D !important;border:none;}
+.navbar-default .navbar-toggle:hover { background-color: #000;}
+.our-story-content {padding: 0px 30px;}
+.our-story-content p {margin: 0px 0px 10px;font-size: 14px;}
+.footer-social-media-set ul { margin: 0px auto 5px;}
+.our-story-content h1 {font-size: 28px; margin-bottom: 20px;}
+.our-story-content h2 {font-size: 19px; margin-top: 8px;}
+.nut-milks img {width: 100%; max-width: 100%;}
+}
+@media only screen and (min-width : 20px) and (max-width : 480px){
+}
